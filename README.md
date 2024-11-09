@@ -1,6 +1,8 @@
-### Hi there 👋, I'm Ibrahim Khalil
+(https://pbs.twimg.com/profile_banners/1853883879377313792/1731188974/1500x500)
+### Hi there 👋
+I'm Ibrahim Khalil
 #### Real Estate, Foreclosure and Surplus Data Entry Expert | Skip Tracing | AI Design & Marketing Pro
-![Real Estate, Foreclosure and Surplus Data Entry Expert | Skip Tracing | AI Design & Marketing Pro](https://pbs.twimg.com/profile_banners/1853883879377313792/1731188974/1500x500)
+![Real Estate, Foreclosure and Surplus Data Entry Expert | Skip Tracing | AI Design & Marketing Pro]
 
 With a solid foundation in real estate data entry, skip tracing, surplus data scraping, and foreclosure underwriting, I apply a client-centered, detail-focused approach to each project. Leading a skilled team, I streamline data workflows and enhance client outreach through cold calling, SMS campaigns, and bulk emails. My AI-driven design expertise adds a unique visual edge, supporting brand identity with tailored social media assets.
 
