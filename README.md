@@ -1,27 +1,19 @@
-### Hi there 👋, I'm Ibrahim Saafwan
-#### Front End Developer
-![Front End Developer](https://scontent.fjsr6-1.fna.fbcdn.net/v/t39.30808-6/274735526_112772041341811_250156177601795767_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=e3f864&_nc_ohc=_B_1ERue03oAX83csdB&_nc_ht=scontent.fjsr6-1.fna&oh=00_AT95bfsjO8IyeEFXZQT9TF22yxfX2Ci5mvHGovDBixSUvQ&oe=630A8D12)
+### Hi there 👋, I'm Ibrahim Khalil
+#### Real Estate, Foreclosure and Surplus Data Entry Expert | Skip Tracing | AI Design & Marketing Pro
+![Real Estate, Foreclosure and Surplus Data Entry Expert | Skip Tracing | AI Design & Marketing Pro](https://pbs.twimg.com/profile_banners/1853883879377313792/1731188974/1500x500)
 
-I'm a Front End Developer. I Love to Code with HTML, CSS & JavaScript.
+With a solid foundation in real estate data entry, skip tracing, surplus data scraping, and foreclosure underwriting, I apply a client-centered, detail-focused approach to each project. Leading a skilled team, I streamline data workflows and enhance client outreach through cold calling, SMS campaigns, and bulk emails. My AI-driven design expertise adds a unique visual edge, supporting brand identity with tailored social media assets.
 
-Skills: HTML / CSS / JS / SCSS / jQuery
+Let’s connect if you’re seeking efficient data solutions, client engagement strategies, or creative design support to elevate your business!
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning React JS 
-- 👯 I’m looking to collaborate on Github 
-- 💬 Ask me about Web Development 
+Skills: Real Estate Data Entry | Mortgage Foreclosure Data Entry | Surplus Data Scraping | Skip Tracing | Social Media Marketing | AI Driven Design Pro
+
+- 🔭 I’m currently working on Real Estate & Foreclose Project 
+- 🌱 I’m currently learning AI Driven Design & Videos 
+- 👯 I’m looking to collaborate on GitHub | LinkedIn 
+- 💬 Ask me about Real Estate Project 
+- 📫 How to reach me: ibrahimsaafwan@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ibrahimsaafwan)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ibrahimsaafwan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ibrahimsaafwan/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ibrahimsaafwaan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ibrahimsaafwan/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ibrahimsaafwaan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://about.me/ibrahimsaafwan)  
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ibrahimsaafwan)](https://github.com/ryo-ma/github-profile-trophy)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ibrahimsaafwan&show_icons=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/ibrahimsaafwan)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ibrahimsaafwan)  
-
-![Profile views](https://gpvc.arturio.dev/ibrahimsaafwan)  
