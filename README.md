@@ -6,9 +6,28 @@
 
 With a solid foundation in real estate data entry, skip tracing, surplus data scraping, and foreclosure underwriting, I apply a client-centered, detail-focused approach to each project. Leading a skilled team, I streamline data workflows and enhance client outreach through cold calling, SMS campaigns, and bulk emails. My AI-driven design expertise adds a unique visual edge, supporting brand identity with tailored social media assets.
 
-Let’s connect if you’re seeking efficient data solutions, client engagement strategies, or creative design support to elevate your business!
+## Core Qualifications of Me and My Teams:
+- Foreclosure Underwriting
+- Skip Tracing
+- Real Estate Data Entry
+- Surplus Data Management
+- Mortgage Foreclosure Data Entry
+- Data & Client Management
+- Cold Calling
+- SMS Campaign Management
+- Bulk Email Outreach
+- Obituary Search
+- Defendant Relationship Management
+- Shopify Product Listing
+- Product Research & Market Analysis
+- Social Media Marketing
+## AI-Driven Design:
+- Logo Design
+- T-Shirt and Product Design
+- Realistic Photo Editing & Illustration
+- Social Media, Flyer, Banner, Poster, Magazine, and Template Design
 
-Skills: Real Estate Data Entry | Mortgage Foreclosure Data Entry | Surplus Data Scraping | Skip Tracing | Social Media Marketing | AI Driven Design Pro
+#### Let’s connect if you’re seeking efficient data solutions, client engagement strategies, or creative design support to elevate your business!
 
 - 🔭 I’m currently working on Real Estate & Foreclose Project 
 - 🌱 I’m currently learning AI Driven Design & Videos 
